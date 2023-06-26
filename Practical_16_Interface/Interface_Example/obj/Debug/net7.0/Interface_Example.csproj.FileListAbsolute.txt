@@ -1,0 +1,15 @@
+F:\Meet_Pandya\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.exe
+F:\Meet_Pandya\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.deps.json
+F:\Meet_Pandya\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.runtimeconfig.json
+F:\Meet_Pandya\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.dll
+F:\Meet_Pandya\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.pdb
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.csproj.AssemblyReference.cache
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.AssemblyInfoInputs.cache
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.AssemblyInfo.cs
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.csproj.CoreCompileInputs.cache
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.dll
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\refint\Interface_Example.dll
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.pdb
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.genruntimeconfig.cache
+F:\Meet_Pandya\Interface_Example\Interface_Example\obj\Debug\net7.0\ref\Interface_Example.dll

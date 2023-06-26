@@ -1,0 +1,15 @@
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\bin\Debug\net7.0\Practical_19_List.exe
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\bin\Debug\net7.0\Practical_19_List.deps.json
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\bin\Debug\net7.0\Practical_19_List.runtimeconfig.json
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\bin\Debug\net7.0\Practical_19_List.dll
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\bin\Debug\net7.0\Practical_19_List.pdb
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.csproj.AssemblyReference.cache
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.AssemblyInfoInputs.cache
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.AssemblyInfo.cs
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.csproj.CoreCompileInputs.cache
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.dll
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\refint\Practical_19_List.dll
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.pdb
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\Practical_19_List.genruntimeconfig.cache
+F:\Assignment_Programs\Practical_19_List\Practical_19_List\obj\Debug\net7.0\ref\Practical_19_List.dll

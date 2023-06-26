@@ -1,0 +1,15 @@
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.csproj.AssemblyReference.cache
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.AssemblyInfoInputs.cache
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.AssemblyInfo.cs
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.csproj.CoreCompileInputs.cache
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\bin\Debug\net7.0\Practical_20_Dictionary.exe
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\bin\Debug\net7.0\Practical_20_Dictionary.deps.json
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\bin\Debug\net7.0\Practical_20_Dictionary.runtimeconfig.json
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\bin\Debug\net7.0\Practical_20_Dictionary.dll
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\bin\Debug\net7.0\Practical_20_Dictionary.pdb
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.dll
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\refint\Practical_20_Dictionary.dll
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.pdb
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\Practical_20_Dictionary.genruntimeconfig.cache
+F:\Assignment_Programs\Practical_20_Dictionary\Practical_20_Dictionary\obj\Debug\net7.0\ref\Practical_20_Dictionary.dll

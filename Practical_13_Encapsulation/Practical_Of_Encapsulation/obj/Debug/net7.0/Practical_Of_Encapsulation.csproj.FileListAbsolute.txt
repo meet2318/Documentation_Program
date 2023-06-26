@@ -1,0 +1,15 @@
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\bin\Debug\net7.0\Practical_Of_Encapsulation.exe
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\bin\Debug\net7.0\Practical_Of_Encapsulation.deps.json
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\bin\Debug\net7.0\Practical_Of_Encapsulation.runtimeconfig.json
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\bin\Debug\net7.0\Practical_Of_Encapsulation.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\bin\Debug\net7.0\Practical_Of_Encapsulation.pdb
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.csproj.AssemblyReference.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.AssemblyInfoInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.AssemblyInfo.cs
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.csproj.CoreCompileInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\refint\Practical_Of_Encapsulation.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.pdb
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\Practical_Of_Encapsulation.genruntimeconfig.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Encapsulation\Practical_Of_Encapsulation\obj\Debug\net7.0\ref\Practical_Of_Encapsulation.dll

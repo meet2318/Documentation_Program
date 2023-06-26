@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Meet_Pandya\\Practical_Task\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj": {}
+    "F:\\Assignment_Programs\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj": {}
   },
   "projects": {
-    "F:\\Meet_Pandya\\Practical_Task\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj": {
+    "F:\\Assignment_Programs\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Meet_Pandya\\Practical_Task\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj",
+        "projectUniqueName": "F:\\Assignment_Programs\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj",
         "projectName": "Practical_10_This",
-        "projectPath": "F:\\Meet_Pandya\\Practical_Task\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj",
+        "projectPath": "F:\\Assignment_Programs\\Practical_10_This\\Practical_10_This\\Practical_10_This.csproj",
         "packagesPath": "C:\\Users\\meet7\\.nuget\\packages\\",
-        "outputPath": "F:\\Meet_Pandya\\Practical_Task\\Practical_10_This\\Practical_10_This\\obj\\",
+        "outputPath": "F:\\Assignment_Programs\\Practical_10_This\\Practical_10_This\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meet7\\AppData\\Roaming\\NuGet\\NuGet.Config",

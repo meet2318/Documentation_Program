@@ -1,0 +1,15 @@
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\bin\Debug\net7.0\Practical_21_List.exe
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\bin\Debug\net7.0\Practical_21_List.deps.json
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\bin\Debug\net7.0\Practical_21_List.runtimeconfig.json
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\bin\Debug\net7.0\Practical_21_List.dll
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\bin\Debug\net7.0\Practical_21_List.pdb
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.csproj.AssemblyReference.cache
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.AssemblyInfoInputs.cache
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.AssemblyInfo.cs
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.csproj.CoreCompileInputs.cache
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.dll
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\refint\Practical_21_List.dll
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.pdb
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\Practical_21_List.genruntimeconfig.cache
+F:\Assignment_Programs\Practical_21_List\Practical_21_List\obj\Debug\net7.0\ref\Practical_21_List.dll

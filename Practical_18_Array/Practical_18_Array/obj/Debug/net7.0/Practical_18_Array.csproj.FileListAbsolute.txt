@@ -1,0 +1,15 @@
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\bin\Debug\net7.0\Practical_18_Array.exe
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\bin\Debug\net7.0\Practical_18_Array.deps.json
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\bin\Debug\net7.0\Practical_18_Array.runtimeconfig.json
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\bin\Debug\net7.0\Practical_18_Array.dll
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\bin\Debug\net7.0\Practical_18_Array.pdb
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.csproj.AssemblyReference.cache
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.AssemblyInfoInputs.cache
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.AssemblyInfo.cs
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.csproj.CoreCompileInputs.cache
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.dll
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\refint\Practical_18_Array.dll
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.pdb
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\Practical_18_Array.genruntimeconfig.cache
+F:\Assignment_Programs\Practical_18_Array\Practical_18_Array\obj\Debug\net7.0\ref\Practical_18_Array.dll

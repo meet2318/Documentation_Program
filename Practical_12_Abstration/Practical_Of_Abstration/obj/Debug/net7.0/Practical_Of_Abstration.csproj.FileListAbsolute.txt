@@ -1,0 +1,15 @@
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\bin\Debug\net7.0\Practical_Of_Abstration.exe
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\bin\Debug\net7.0\Practical_Of_Abstration.deps.json
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\bin\Debug\net7.0\Practical_Of_Abstration.runtimeconfig.json
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\bin\Debug\net7.0\Practical_Of_Abstration.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\bin\Debug\net7.0\Practical_Of_Abstration.pdb
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.csproj.AssemblyReference.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.AssemblyInfoInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.AssemblyInfo.cs
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.csproj.CoreCompileInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\refint\Practical_Of_Abstration.dll
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.pdb
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\Practical_Of_Abstration.genruntimeconfig.cache
+F:\Meet_Pandya\Practical_Task\Practical_Of_Abstration\Practical_Of_Abstration\obj\Debug\net7.0\ref\Practical_Of_Abstration.dll

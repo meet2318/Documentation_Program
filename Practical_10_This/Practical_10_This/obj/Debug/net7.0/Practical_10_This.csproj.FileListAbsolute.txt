@@ -1,0 +1,15 @@
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\bin\Debug\net7.0\Practical_10_This.exe
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\bin\Debug\net7.0\Practical_10_This.deps.json
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\bin\Debug\net7.0\Practical_10_This.runtimeconfig.json
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\bin\Debug\net7.0\Practical_10_This.dll
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\bin\Debug\net7.0\Practical_10_This.pdb
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.csproj.AssemblyReference.cache
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.GeneratedMSBuildEditorConfig.editorconfig
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.AssemblyInfoInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.AssemblyInfo.cs
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.csproj.CoreCompileInputs.cache
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.dll
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\refint\Practical_10_This.dll
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.pdb
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\Practical_10_This.genruntimeconfig.cache
+F:\Meet_Pandya\Practical_Task\Practical_10_This\Practical_10_This\obj\Debug\net7.0\ref\Practical_10_This.dll

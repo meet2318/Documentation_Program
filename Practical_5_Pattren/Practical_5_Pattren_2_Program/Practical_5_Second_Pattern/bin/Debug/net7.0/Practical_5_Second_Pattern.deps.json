@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Practical_5_Second_Pattern/1.0.0": {
+        "runtime": {
+          "Practical_5_Second_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical_5_Second_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
